@@ -8,7 +8,7 @@
 		<gap:platform name="android" />
 	</gap:platforms>
 	
-	<gap:plugin name="com.pushwoosh.plugins.pushwoosh" source="plugins.cordova.io" />
+	<!--<gap:plugin name="com.pushwoosh.plugins.pushwoosh" source="plugins.cordova.io" />-->
 	<icon src="icon.png" />
 	<icon src="images/icon_36.png" gap:platform="android" gap:qualifier="ldpi" />
 	<icon src="images/icon_48.png" gap:platform="android" gap:qualifier="mdpi" />
