@@ -24,13 +24,13 @@
 	<access uri="*" subdomains="true" />
 	
 	<access origin="*"/> <!-- allow all pages, use for development -->
-<access origin="*.pushwoosh.com"/> <!-- allow pushwoosh service -->
+<!--<access origin="*.pushwoosh.com"/> <!-- allow pushwoosh service -->
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	<feature name="http://api.phonegap.com/1.0/camera"/>
 	<feature name="http://api.phonegap.com/1.0/file"/>
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	
-	<gap:plugin name="org.apache.cordova.inappbrowser" />
+	<!--<gap:plugin name="org.apache.cordova.inappbrowser" />-->
 	<gap:plugin name="org.apache.cordova.camera" />
 	<gap:plugin name="org.apache.cordova.media" />
 	<gap:plugin name="org.apache.cordova.media-capture" />
